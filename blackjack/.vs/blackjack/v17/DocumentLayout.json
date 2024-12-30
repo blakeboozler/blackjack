@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Source\\Repos\\blakeprograms\\blackjack\\blackjack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A46930B-2896-4309-BD81-853748E8F029}|blackjack.vcxproj|C:\\Users\\Admin\\Source\\Repos\\blakeprograms\\blackjack\\blackjack\\blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A46930B-2896-4309-BD81-853748E8F029}|blackjack.vcxproj|solutionrelative:blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "blackjack.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Source\\Repos\\blakeprograms\\blackjack\\blackjack\\blackjack.cpp",
+              "RelativeDocumentMoniker": "blackjack.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Source\\Repos\\blakeprograms\\blackjack\\blackjack\\blackjack.cpp",
+              "RelativeToolTip": "blackjack.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T21:38:50.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
